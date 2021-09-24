@@ -8,7 +8,7 @@ Check out some of my cool projects (some repositories aren't added yet so do che
 ## Java
 - [Dictionary Server](https://github.com/hedgehog7453/Dictionary-Server)
 - [Collaborative Whiteboard](https://github.com/hedgehog7453/Collaborative-Whiteboard)
-- [Online Examination System](https://github.com/hedgehog7453/Online-Examination-System)
+- Online Examination System
 
 ## Python
 - Pacman Capture the Flag AI Competition
