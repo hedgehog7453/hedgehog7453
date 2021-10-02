@@ -1,5 +1,7 @@
-### Hi there, I'm Jiayu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 Welcome to my GitHub space :space_invader::rainbow:
+
+I'm Jiayu, a software engineering student at the University of Melbourne. 
 
 Check out some of my cool projects (some repositories aren't added yet so do check back later!)
 
@@ -31,7 +33,7 @@ Check out some of my cool projects (some repositories aren't added yet so do che
 ### My skillset
 
 <details>
-<summary><b>:gun: &nbsp;I'm kinda experienced in:</b></summary>
+<summary><b>:gun: &nbsp;I mainly work with:</b></summary>
   <p align="left"><br/>
     <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/></a>&nbsp;
     <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/></a>&nbsp;
