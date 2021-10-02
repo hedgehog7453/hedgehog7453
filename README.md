@@ -1,4 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+<hr>
+
 Welcome to my GitHub space :space_invader::rainbow:
 
 I'm Jiayu, a software engineering student at the University of Melbourne. 
