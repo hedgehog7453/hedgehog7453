@@ -30,7 +30,7 @@ Check out some of my cool projects (some repositories aren't added yet so do che
 
 <hr>
 
-:link: &nbsp;**Connect with me:**
+:mailbox: &nbsp;**Connect with me:**
 
 <a href="https://www.linkedin.com/in/jiayu816/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/12579999/135622463-51a94c98-7499-4a02-889a-c6c1a9dceb06.png" alt="Linkedin" height="32" width="32" /></a>
 &nbsp;&nbsp;
